@@ -1,1 +1,23 @@
 
+body {
+    background-color: #1a1a1a;
+    color: #ffffff;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 50px;
+}
+
+h1 {
+    color: #00ff00; /* Verde EcoBox */
+}
+
+.botao-zap {
+    display: inline-block;
+    background-color: #25d366; /* Verde WhatsApp */
+    color: white;
+    padding: 15px 30px;
+    border-radius: 50px;
+    text-decoration: none;
+    font-weight: bold;
+    margin-top: 20px;
+}
